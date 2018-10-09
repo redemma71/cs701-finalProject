@@ -1,0 +1,629 @@
+[
+ {
+   "name": "Race Pace Bicycles",
+   "address": {
+      "street": "9930 Reisterstown Road",
+      "city": "Owings Mills",
+      "state": "MD",
+      "zip": 21117
+   },
+   "phone": 4105819700,
+   "hours": {
+      "monday": "10am-8pm",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-6pm",
+      "sunday": "11am-5pm"
+   }
+},
+ {
+   "name": "Pikesville Bicycle Shop",
+   "address": {
+      "street": "1416 Reisterstown Road",
+      "city": "Pikesville",
+      "state": "MD",
+      "zip": 21208
+   },
+   "phone": 4106022453,
+   "hours": {
+      "monday": "Closed",
+      "tuesday": "10am-6pm",
+      "wednesday": "10am-6pm",
+      "thursday": "10am-6pm",
+      "friday": "10am-6pm",
+      "saturday": "10am-6pm",
+      "sunday": "10am-6pm"
+   }
+},
+ {
+   "name": "Joe's Bike Shop",
+   "address": {
+      "street": "5813 Falls Rd",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": 21209
+   },
+   "phone": 4103232788,
+   "hours": {
+      "monday": "10am-8pm",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-6pm",
+      "sunday": "11am-5pm"
+   }
+},
+ {
+   "name": "The Bicycle Connection",
+   "address": {
+      "street": "10435 York Rd",
+      "city": "Cockeysville",
+      "state": "MD",
+      "zip": 21030
+   },
+   "phone": 4106671040,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-6pm",
+      "sunday": "12pm-5pm"
+   }
+},
+ {
+   "name": "Princeton Sports",
+   "address": {
+      "street": "6239 Falls Rd",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": 21209
+   },
+   "phone": 4108281127,
+   "hours": {
+      "monday": "10am-8pm",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-6pm",
+      "sunday": "12pm-5pm"
+   }
+},
+ {
+   "name": "S'Ville Bikes",
+   "address": {
+      "street": "20 Liberty Rd",
+      "city": "Sykesville",
+      "state": "MD",
+      "zip": 21784
+   },
+   "phone": 4107957433,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-6pm",
+      "sunday": "11am-4pm"
+   }
+},
+ {
+   "name": "Baltimre Bicycle Works",
+   "address": {
+      "street": "1813 Falls Rd",
+      "city": "Baltimrore",
+      "state": "MD",
+      "zip": 21201
+   },
+   "phone": 4106050705,
+   "hours": {
+      "monday": "11am-7pm",
+      "tuesday": "11am-7pm",
+      "wednesday": "11am-7pm",
+      "thursday": "11am-7pm",
+      "friday": "11am-7pm",
+      "saturday": "11am-7pm",
+      "sunday": "11am-5pm"
+   }
+},
+ {
+   "name": "The Hub-C'Ville Bikes",
+   "address": {
+      "street": "825 Frederick Road",
+      "city": "Catonsville",
+      "state": "MD",
+      "zip": 21228
+   },
+   "phone": 4107477433,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": " 10am-7pm",
+      "saturday": "10am-5pm",
+      "sunday": "11am-3pm"
+   }
+},
+ {
+   "name": "Race Pace Bicycles",
+   "address": {
+      "street": "730 Dulaney Valley Rd",
+      "city": "Towson",
+      "state": "MD",
+      "zip": 21204
+   },
+   "phone": 4438460900,
+   "hours": {
+      "monday": "10am-8pm",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-6pm",
+      "sunday": "11am-5pm"
+   }
+},
+ {
+   "name": "Baynesville Bicycle Services",
+   "address": {
+      "street": "1703 E. Joppa Road #8",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": 21234
+   },
+   "phone": 4106684987,
+   "hours": {
+      "monday": "Closed",
+      "tuesday": "9:30am-6pm",
+      "wednesday": "9:30am-6pm",
+      "thursday": "9:30am-6pm",
+      "friday": "9:30am-6pm",
+      "saturday": "9:30am-4pm",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "Velocipede Bike Project",
+   "address": {
+      "street": "100 W. 22nd Street",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": 21218
+   },
+   "phone": 4102245585,
+   "hours": {
+      "monday": "Closed",
+      "tuesday": "5pm-9pm",
+      "wednesday": "Closed",
+      "thursday": "Closed",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "Twenty20 Cycling Company",
+   "address": {
+      "street": "320 W. 29th Street",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": 21211
+   },
+   "phone": 4437595620,
+   "hours": {
+      "monday": "11am-7pm",
+      "tuesday": "11am-7pm",
+      "wednesday": "11am-7pm",
+      "thursday": "11am-7pm",
+      "friday": "11am-7pm",
+      "saturday": "10am-6pm",
+      "sunday": "11am-4pm"
+   }
+},
+ {
+   "name": "Whistle Stop Bike Shop",
+   "address": {
+      "street": "2 East Franklin Street",
+      "city": "New Freedom",
+      "state": "PA",
+      "zip": 17349
+   },
+   "phone": 7172270737,
+   "hours": {
+      "monday": "Closed",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-8pm",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "Mt. Airy Bicycle Company",
+   "address": {
+      "street": "4540 Old National Pike",
+      "city": "Mt. Airy",
+      "state": "MD",
+      "zip": 21771
+   },
+   "phone": 3018315151,
+   "hours": {
+      "monday": "10am-6pm",
+      "tuesday": "10am-6pm",
+      "wednesday": "10am-6pm",
+      "thursday": "10am-6pm",
+      "friday": "10am-6pm",
+      "saturday": "10am-5pm",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "Lutherville Bikes",
+   "address": {
+      "street": "2133 Greenspring Drive",
+      "city": "Lutherville-Timonium",
+      "state": "MD",
+      "zip": 21093
+   },
+   "phone": 4105838734,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-5pm",
+      "sunday": "Cloased"
+   }
+},
+ {
+   "name": "Patapsco Bicycles",
+   "address": {
+      "street": "5 North Main Street",
+      "city": "Mt. Airy",
+      "state": "MD",
+      "zip": 21771
+   },
+   "phone": 3018295604,
+   "hours": {
+      "monday": "11am-7pm",
+      "tuesday": "11am-7pm",
+      "wednesday": "11am-7pm",
+      "thursday": "11am-7pm",
+      "friday": "11am-7pm",
+      "saturday": "9am-5pm",
+      "sunday": "11am-3pm"
+   }
+},
+ {
+   "name": "Bike Doctor Bel Air",
+   "address": {
+      "street": "2108 Emmorton Road",
+      "city": "Bel Air",
+      "state": "MD",
+      "zip": 21015
+   },
+   "phone": 4105698833,
+   "hours": {
+      "monday": "11am-7pm",
+      "tuesday": "11am-7pm",
+      "wednesday": "11am-7pm",
+      "thursday": "11am-7pm",
+      "friday": "11am-7pm",
+      "saturday": "10am-5pm",
+      "sunday": "11am-5pm"
+   }
+},
+ {
+   "name": "The Bicycle Escape",
+   "address": {
+      "street": "7820 Wormans Mill Road",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": 21701
+   },
+   "phone": 3016630007,
+   "hours": {
+      "monday": "10am-6pm",
+      "tuesday": "10am-6pm",
+      "wednesday": "10am-6pm",
+      "thursday": "10am-6pm",
+      "friday": "10am-6pm",
+      "saturday": "10am-6pm",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "CKC Bike Shop",
+   "address": {
+      "street": "Mountain Road",
+      "city": "Pasadena",
+      "state": "MD",
+      "zip": 21122
+   },
+   "phone": 4436947057,
+   "hours": {
+      "monday": "NA",
+      "tuesday": "NA",
+      "wednesday": "NA",
+      "thursday": "NA",
+      "friday": "NA",
+      "saturday": "NA",
+      "sunday": "NA"
+   }
+},
+ {
+   "name": "Crofton Bike Doctor",
+   "address": {
+      "street": "2616A Chapel Lake Drive",
+      "city": "Gambrills",
+      "state": "MD",
+      "zip": 21054
+   },
+   "phone": 4104516901,
+   "hours": {
+      "monday": "10am-8pm",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-6pm",
+      "sunday": "11am-5pm"
+   }
+},
+ {
+   "name": "All American Bicycle Center",
+   "address": {
+      "street": "26039 Ridge Rd",
+      "city": "Damascus",
+      "state": "MD",
+      "zip": 20872
+   },
+   "phone": 3012535800,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-6pm",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "Takoma Bicycle",
+   "address": {
+      "street": "7030 Carroll Avenue",
+      "city": "Takoma Park",
+      "state": "MD",
+      "zip": 20912
+   },
+   "phone": 3012700202,
+   "hours": {
+      "monday": "10am-8pm",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-4pm",
+      "sunday": "10am-4pm"
+   }
+},
+ {
+   "name": "Just Riding Along Bicycle Shop",
+   "address": {
+      "street": "6828 Olney Laytonsville Road",
+      "city": "Laytonsville",
+      "state": "MD",
+      "zip": 20882
+   },
+   "phone": 3019631273,
+   "hours": {
+      "monday": "Closed",
+      "tuesday": "8am-5pm",
+      "wednesday": "8am-5pm",
+      "thursday": "8am-5pm",
+      "friday": "8am-5pm",
+      "saturday": "10am-4pm",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "Family Bike Shop",
+   "address": {
+      "street": "1286 MD-3",
+      "city": "Crofton",
+      "state": "MD",
+      "zip": 21114
+   },
+   "phone": 4107218244,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-5pm",
+      "sunday": "12pm-5pm"
+   }
+},
+ {
+   "name": "John's Bicycle Repair LLC",
+   "address": {
+      "street": "413 S Highland Ave",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": 21224
+   },
+   "phone": 4439345760,
+   "hours": {
+      "monday": "12pm-8pm",
+      "tuesday": "12pm-8pm",
+      "wednesday": "12pm-8pm",
+      "thursday": "12pm-8pm",
+      "friday": "12pm-8pm",
+      "saturday": "10:30am-8pm",
+      "sunday": "10:30am-5pm"
+   }
+},
+ {
+   "name": "Big Wheel Bikes",
+   "address": {
+      "street": "6917 Arlington Road",
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": 20814
+   },
+   "phone": 3016520192,
+   "hours": {
+      "monday": "11am-7pm",
+      "tuesday": "11am-7pm",
+      "wednesday": "11am-7pm",
+      "thursday": "11am-7pm",
+      "friday": "11am-7pm",
+      "saturday": "10am-6pm",
+      "sunday": "10am-6pm"
+   }
+},
+ {
+   "name": "Wheel Base Bikes",
+   "address": {
+      "street": "229 N. Market Street",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": 21701
+   },
+   "phone": 3016639288,
+   "hours": {
+      "monday": "10am-6pm",
+      "tuesday": "10am-8pm",
+      "wednesday": "10am-8pm",
+      "thursday": "10am-8pm",
+      "friday": "10am-8pm",
+      "saturday": "10am-6pm",
+      "sunday": "12pm-4pm"
+   }
+},
+ {
+   "name": "Germantown Cycles  Bicycle Shop",
+   "address": {
+      "street": "12615-B Wisteria Dr",
+      "city": "Germantown",
+      "state": "MD",
+      "zip": 20874
+   },
+   "phone": 2404040695,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-5pm",
+      "sunday": "Closed"
+   }
+},
+ {
+   "name": "Proteus Bicycles",
+   "address": {
+      "street": "9217 Baltimore Avenue",
+      "city": "College Park",
+      "state": "MD",
+      "zip": 20740
+   },
+   "phone": 3014412928,
+   "hours": {
+      "monday": "11am-7pm",
+      "tuesday": "11am-7pm",
+      "wednesday": "11am-7pm",
+      "thursday": "11am-7pm",
+      "friday": "11am-7pm",
+      "saturday": "10am-6pm",
+      "sunday": "12pm-6pm"
+   }
+},
+ {
+   "name": "Pedal Pushers Bicycle Shop",
+   "address": {
+      "street": "546 Baltimore Annapolis Blvd,",
+      "city": "Severna Park",
+      "state": "MD",
+      "zip": 21146
+   },
+   "phone": 4105442323,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-5pm",
+      "sunday": "11am-5pm"
+   }
+},
+ {
+   "name": "Bicycle Place",
+   "address": {
+      "street": "9168 Brookville Rd",
+      "city": "Silver Spring",
+      "state": "MD",
+      "zip": 20910
+   },
+   "phone": 3015886160,
+   "hours": {
+      "monday": "Closed",
+      "tuesday": "11am-7pm",
+      "wednesday": "11am-7pm",
+      "thursday": "11am-7pm",
+      "friday": "11am-7pm",
+      "saturday": "10am-6pm",
+      "sunday": "11am-3pm"
+   }
+},
+ {
+   "name": "Cockeysville Schwinn",
+   "address": {
+      "street": "0435 York Rd",
+      "city": "Cockeysville",
+      "state": "MD",
+      "zip": 201230
+   },
+   "phone": 4106671040,
+   "hours": {
+      "monday": "10am-7pm",
+      "tuesday": "10am-7pm",
+      "wednesday": "10am-7pm",
+      "thursday": "10am-7pm",
+      "friday": "10am-7pm",
+      "saturday": "10am-5pm",
+      "sunday": "11am-3pm"
+   }
+},
+ {
+   "name": "Laurel Bicycle Center",
+   "address": {
+      "street": "14805 Baltimore Ave,",
+      "city": "Laurel",
+      "state": "MD",
+      "zip": 20707
+   },
+   "phone": 3019531223,
+   "hours": {
+      "monday": "10am-6pm",
+      "tuesday": "10am-6pm",
+      "wednesday": "10am-6pm",
+      "thursday": "10am-6pm",
+      "friday": "10am-6pm",
+      "saturday": "10am-5pm",
+      "sunday": "Closed"
+   }
+}
+]
