@@ -1,0 +1,34 @@
+cdc-modal {
+  display: none;
+}
+
+.cdc-modal {
+    position: fixed;
+    top: 25%;
+    right: 25%;
+    bottom: 25%;
+    left: 25%;
+    z-index: 1000;
+    overflow: auto;
+  }
+
+  .cdc-modal-body {
+    padding: 20px;
+    background: #FFFFFF;
+    margin: 40px;
+  }
+
+  .cdc-modal-background {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: #000000;
+    opacity: 0.75;
+    z-index: 900;
+  }
+
+  body.cdc-modal-open {
+    overflow: hidden;
+  }

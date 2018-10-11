@@ -1,13 +1,13 @@
-export class BikeShops {
+export class BikeShop {
 
   name:           string;
   address:  {
     street:       string;
     city:         string;
     state:        string;
-    zip:          string;
+    zip:          number;
   };
-  phone:          string;
+  phone:          number;
   hours:    {
     monday:       string;
     tuesday:      string;
