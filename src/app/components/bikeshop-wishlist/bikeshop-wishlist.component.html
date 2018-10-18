@@ -1,3 +1,42 @@
-<p>
-  bikeshop-wishlist works!
-</p>
+<div class="menu col-12">
+    <button><a href="./find">Find My Shop</a></button> | <button><a href="./add">Add to Wishlist</a></button> | <button><a href="./browse">Browse Wishlist</a></button>
+</div>
+<div class="col-12" id="wishlist-form-div">
+      <form #wishListForm="ngForm">
+        <table>
+          <thead>
+            <tr>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+                <td colspan="2" class="col-12" id="which-bike-td">
+                  <label for="name">For which bike?</label>&nbsp;
+                    <select [(ngModel)]="bikeId" name="id">
+                        <option *ngFor='let bike of bikes' [value]="bike.id">{{bike.name}}</option>
+                      </select>
+                </td>
+              </tr>
+            <tr>
+              <td>
+                  <div class="form-group">
+                    <label for="item">Item:</label>
+                    <input type="text" id="item" [(ngModel)]="itemName" name="item">
+                </div>
+              </td>
+              <td>
+                  <div class="form-group">
+                      <label for="quantity">Quantity:</label>
+                      <input type="number" id="quantity" [(ngModel)]="itemQuantity" name="quantity">
+                  </div>
+            </td>
+          </tr>
+            <tr>
+              <td colspan="2">
+                  <button class="btn-primary" (click)="onSubmit(bikeId)">Add to Wishlist</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+</div>

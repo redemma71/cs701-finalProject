@@ -1,9 +1,0 @@
-<div>
-    <agm-map [(latitude)]=location.lat [(longitude)]=location.long
-            [(zoom)]="location.zoom" [disableDefaultUI]="true" [zoomControl]="true"
-            [(fitBounds)]="location.viewport">
-        <agm-marker [(latitude)]="location.marker.lat" [(longitude)]="location.marker.long"
-                    [markerDraggable]="location.marker.draggable"
-                    (dragEnd)='yadda()'></agm-marker>
-    </agm-map>
-</div>

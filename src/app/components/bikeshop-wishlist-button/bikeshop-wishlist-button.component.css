@@ -14,30 +14,7 @@ div button a {
   padding: 25px;
 }
 
-
-/* map styles */
-agm-map {
-  height: 20px;
-}
-
-.btn-primary {
-  margin-top: 20px;
-  float: right;
-}
-
-table {
-  text-align: left;
-  font-size: 16px;
-}
-
-#closest-shop-div {
-  padding: 20px;
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* svg button styles */
+/* svg styling */
 
 button circle {
   stroke-dasharray: 700;

@@ -1,0 +1,8 @@
+<h4>Directions to {{myDestination}}</h4>
+<div id="map-div">
+    <agm-map [latitude]="myLat" [longitude]="myLong" [zoom]="5">
+        <agm-direction [origin]="origin" [destination]="destination"
+          [avoidHighways]=true [avoidTolls]=true>
+        </agm-direction>
+    </agm-map>
+</div>

@@ -1,0 +1,17 @@
+<div class="menu col-12">
+    <button><a href="./find">Find My Shop</a></button> | <button><a href="./wishlist">My Wishlist</a></button>
+</div>
+<div class="container">
+    <div id="button-div" class="row" >
+        <div class="col-12">
+          <a [routerLink]="['../add']">
+              <button [disabled]="!dataHasReturned">
+                <svg width="200" height="200">
+                    <circle id="find-my-shop-btn" cx="100" cy="100" r="98" stroke="yellow" stroke-width="5" fill="#0E8A77" />
+                    <text x="70" y="80" fill="white">My</text>
+                    <text x="25" y="130" fill="white">Wishlist</text>
+                </svg>
+            </button>
+          </a>
+        </div>
+    </div>

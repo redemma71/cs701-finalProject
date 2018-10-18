@@ -7,6 +7,10 @@
       "state": "MD",
       "zip": 21117
    },
+   "coords": {
+    "lat": 39.4096779,
+    "lng": -76.76892769999999
+   },
    "phone": 4105819700,
    "hours": {
       "monday": "10am-8pm",
@@ -26,6 +30,10 @@
       "state": "MD",
       "zip": 21208
    },
+   "coords": {
+    "lat": 39.37666979999999,
+    "lng": -76.72524229999999
+  },
    "phone": 4106022453,
    "hours": {
       "monday": "Closed",
@@ -45,6 +53,10 @@
       "state": "MD",
       "zip": 21209
    },
+   "coords": {
+    "lat": 39.3672611,
+    "lng": -76.64787419999999
+  },
    "phone": 4103232788,
    "hours": {
       "monday": "10am-8pm",
@@ -63,6 +75,10 @@
       "city": "Cockeysville",
       "state": "MD",
       "zip": 21030
+   },
+   "coords": {
+    "lat": 39.47472750000001,
+    "lng": -76.6405978
    },
    "phone": 4106671040,
    "hours": {
@@ -83,6 +99,10 @@
       "state": "MD",
       "zip": 21209
    },
+   "coords": {
+      "lat": 39.3837014,
+      "lng": -76.6567028
+   },
    "phone": 4108281127,
    "hours": {
       "monday": "10am-8pm",
@@ -102,6 +122,10 @@
       "state": "MD",
       "zip": 21784
    },
+   "coords": {
+    "lat": 39.423415,
+    "lng": -76.99570500000002
+   },
    "phone": 4107957433,
    "hours": {
       "monday": "10am-7pm",
@@ -114,12 +138,16 @@
    }
 },
  {
-   "name": "Baltimre Bicycle Works",
+   "name": "Baltimore Bicycle Works",
    "address": {
       "street": "1813 Falls Rd",
-      "city": "Baltimrore",
+      "city": "Baltimore",
       "state": "MD",
       "zip": 21201
+   },
+   "coords": {
+    "lat": 39.3104241,
+    "lng": -76.6191894
    },
    "phone": 4106050705,
    "hours": {
@@ -140,6 +168,10 @@
       "state": "MD",
       "zip": 21228
    },
+   "coords": {
+    "lat": 39.2708531,
+    "lng": -76.7347569
+   },
    "phone": 4107477433,
    "hours": {
       "monday": "10am-7pm",
@@ -158,6 +190,10 @@
       "city": "Towson",
       "state": "MD",
       "zip": 21204
+   },
+   "coords": {
+    "lat": 39.4045466,
+    "lng": -76.6031756
    },
    "phone": 4438460900,
    "hours": {
@@ -178,6 +214,10 @@
       "state": "MD",
       "zip": 21234
    },
+   "coords": {
+      "lat": 39.3968394,
+      "lng": -76.56241469999998
+   },
    "phone": 4106684987,
    "hours": {
       "monday": "Closed",
@@ -196,6 +236,10 @@
       "city": "Baltimore",
       "state": "MD",
       "zip": 21218
+   },
+   "coords": {
+      "lat": 39.3142851,
+      "lng": -76.6186845
    },
    "phone": 4102245585,
    "hours": {
@@ -216,6 +260,10 @@
       "state": "MD",
       "zip": 21211
    },
+   "coords": {
+      "lat": 39.3223325,
+      "lng": -76.6229079
+   },
    "phone": 4437595620,
    "hours": {
       "monday": "11am-7pm",
@@ -234,6 +282,10 @@
       "city": "New Freedom",
       "state": "PA",
       "zip": 17349
+   },
+   "coords": {
+      "lat": 39.73913410000001,
+      "lng": -76.7008439
    },
    "phone": 7172270737,
    "hours": {
@@ -254,6 +306,10 @@
       "state": "MD",
       "zip": 21771
    },
+   "coords": {
+      "lat": 39.3593468,
+      "lng": -77.1607721
+   },
    "phone": 3018315151,
    "hours": {
       "monday": "10am-6pm",
@@ -272,6 +328,10 @@
       "city": "Lutherville-Timonium",
       "state": "MD",
       "zip": 21093
+   },
+   "coords": {
+    "lat": 39.4404986,
+    "lng": -76.63191669999999
    },
    "phone": 4105838734,
    "hours": {
@@ -292,6 +352,10 @@
       "state": "MD",
       "zip": 21771
    },
+   "coords": {
+      "lat": 39.376771,
+      "lng": -77.153592
+   },
    "phone": 3018295604,
    "hours": {
       "monday": "11am-7pm",
@@ -310,6 +374,10 @@
       "city": "Bel Air",
       "state": "MD",
       "zip": 21015
+   },
+   "coords": {
+    "lat": 39.4984846,
+    "lng": -76.3265515
    },
    "phone": 4105698833,
    "hours": {
@@ -330,6 +398,10 @@
       "state": "MD",
       "zip": 21701
    },
+   "coords": {
+    "lat": 39.4456515,
+    "lng": -77.3967729
+   },
    "phone": 3016630007,
    "hours": {
       "monday": "10am-6pm",
@@ -348,6 +420,10 @@
       "city": "Pasadena",
       "state": "MD",
       "zip": 21122
+   },
+   "coords": {
+    "lat": 39.1302154,
+    "lng": -76.5572152
    },
    "phone": 4436947057,
    "hours": {
@@ -368,6 +444,10 @@
       "state": "MD",
       "zip": 21054
    },
+   "coords": {
+     "lat": 39.038823,
+     "lng": -76.68140799999999
+   },
    "phone": 4104516901,
    "hours": {
       "monday": "10am-8pm",
@@ -386,6 +466,10 @@
       "city": "Damascus",
       "state": "MD",
       "zip": 20872
+   },
+   "coords": {
+    "lat": 39.284574,
+    "lng": -77.207686
    },
    "phone": 3012535800,
    "hours": {
@@ -406,6 +490,10 @@
       "state": "MD",
       "zip": 20912
    },
+   "coords": {
+    "lat": 38.9752926,
+    "lng": -77.01157719999999
+   },
    "phone": 3012700202,
    "hours": {
       "monday": "10am-8pm",
@@ -424,6 +512,10 @@
       "city": "Laytonsville",
       "state": "MD",
       "zip": 20882
+   },
+   "coords": {
+    "lat": 39.2035068,
+    "lng": -77.13999679999999
    },
    "phone": 3019631273,
    "hours": {
@@ -444,6 +536,10 @@
       "state": "MD",
       "zip": 21114
    },
+   "coords": {
+    "lat": 39.0082231,
+    "lng": -76.69928780000001
+   },
    "phone": 4107218244,
    "hours": {
       "monday": "10am-7pm",
@@ -462,6 +558,10 @@
       "city": "Baltimore",
       "state": "MD",
       "zip": 21224
+   },
+   "coords": {
+    "lat": 39.2871196,
+    "lng": -76.56879219999999
    },
    "phone": 4439345760,
    "hours": {
@@ -482,6 +582,10 @@
       "state": "MD",
       "zip": 20814
    },
+   "coords": {
+    "lat": 38.9783835,
+    "lng": -77.0984416
+   },
    "phone": 3016520192,
    "hours": {
       "monday": "11am-7pm",
@@ -500,6 +604,10 @@
       "city": "Frederick",
       "state": "MD",
       "zip": 21701
+   },
+   "coords": {
+     "lat": 39.417392,
+     "lng": -77.410769
    },
    "phone": 3016639288,
    "hours": {
@@ -520,6 +628,10 @@
       "state": "MD",
       "zip": 20874
    },
+   "coords": {
+     "lat": 39.171119,
+     "lng": -77.260746
+   },
    "phone": 2404040695,
    "hours": {
       "monday": "10am-7pm",
@@ -538,6 +650,10 @@
       "city": "College Park",
       "state": "MD",
       "zip": 20740
+   },
+   "coords": {
+    "lat": 39.0063866,
+    "lng": -76.92944279999999
    },
    "phone": 3014412928,
    "hours": {
@@ -558,6 +674,10 @@
       "state": "MD",
       "zip": 21146
    },
+   "coords": {
+      "lat": 39.07309100000001,
+      "lng": -76.5475008
+   },
    "phone": 4105442323,
    "hours": {
       "monday": "10am-7pm",
@@ -577,6 +697,10 @@
       "state": "MD",
       "zip": 20910
    },
+   "coords": {
+      "lat": 39.0062184,
+      "lng": -77.0495428
+   },
    "phone": 3015886160,
    "hours": {
       "monday": "Closed",
@@ -591,10 +715,14 @@
  {
    "name": "Cockeysville Schwinn",
    "address": {
-      "street": "0435 York Rd",
+      "street": "435 York Rd",
       "city": "Cockeysville",
       "state": "MD",
       "zip": 201230
+   },
+   "coords": {
+      "lat": 39.4002762,
+      "lng": -76.6026864
    },
    "phone": 4106671040,
    "hours": {
@@ -614,6 +742,10 @@
       "city": "Laurel",
       "state": "MD",
       "zip": 20707
+   },
+   "coords": {
+    "lat": 39.0933542,
+    "lng": -76.854754
    },
    "phone": 3019531223,
    "hours": {

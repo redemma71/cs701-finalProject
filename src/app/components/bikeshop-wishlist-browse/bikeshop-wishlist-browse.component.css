@@ -10,15 +10,6 @@ div button a {
   color: cadetblue;
 }
 
-#searchTable {
-  padding: 25px;
-}
-
-#wishlist-form-div {
-  margin-top: 20px;
-}
-
-
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   size: 20px;
@@ -28,6 +19,7 @@ table {
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
   text-align: left;
   font-size: 16px;
 }

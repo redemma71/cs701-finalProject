@@ -1,0 +1,28 @@
+<div class="menu col-12">
+    <button><a href="./find">Find My Shop</a></button> | <button><a href="./add">Add to Wishlist</a></button> | <button><a href="./browse">Browse Wishlist</a></button>
+</div>
+<div class="col-12" id="wishlist-form-div">
+    <form #wishListForm="ngForm">
+      <table>
+        <thead></thead>
+        <tbody>
+        <tr>
+            <td colspan="2" class="col-12">
+              <label for="name">For which bike?</label>&nbsp;
+                <select [(ngModel)]="bikeId" name="id" (change)="getWishlist()">
+                    <option *ngFor='let bike of bikes' [value]="bike.id">{{bike.name}}</option>
+                  </select>
+            </td>
+          </tr>
+          <tr>
+            <th>Item</th>
+            <th>Quantity</th>
+          </tr>
+          <tr *ngFor="let item of wishlistForBike">
+            <td>{{item.item}}</td>
+            <td>{{item.quantity}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </form>
+</div>

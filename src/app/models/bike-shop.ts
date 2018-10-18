@@ -6,9 +6,14 @@ export class BikeShop {
     city:         string;
     state:        string;
     zip:          number;
+    full?:        string;
+  };
+  coords?: {
+    lat:         number;
+    lng:        number;
   };
   phone:          number;
-  hours:    {
+  hours?:    {
     monday:       string;
     tuesday:      string;
     wednesday:    string;

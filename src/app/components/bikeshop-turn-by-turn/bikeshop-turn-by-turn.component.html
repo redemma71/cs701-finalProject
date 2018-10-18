@@ -1,0 +1,6 @@
+<h4>Turn-by-Turn Directions to {{myDestination}}</h4>
+<div class="row">
+  <ol>
+    <li *ngFor="let leg of legs;">{{leg.narrative}}<br />(Continue {{leg.distance | number }} miles)</li>
+  </ol>
+</div>

@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { HttpClientJsonpModule } from '@angular/common/http';
 import { AgmCoreModule, GoogleMapsAPIWrapper } from '@agm/core';
+import { AgmDirectionModule as GoogleMapsDirections } from 'agm-direction';
 import { ButtonsModule } from 'ngx-bootstrap/buttons';
 
 
@@ -17,7 +18,10 @@ import { BikeshopComponent } from './components/bikeshop/bikeshop.component';
 import { TelephonePipe } from './pipes/telephone.pipe';
 import { BikeshopFindComponent } from './components/bikeshop-find/bikeshop-find.component';
 import { BikeshopWishlistComponent } from './components/bikeshop-wishlist/bikeshop-wishlist.component';
-import { MapComponent } from './components/map/map.component';
+import { BikeshopDirectionsComponent } from './components/bikeshop-directions/bikeshop-directions.component';
+import { BikeshopTurnByTurnComponent } from './components/bikeshop-turn-by-turn/bikeshop-turn-by-turn.component';
+import { BikeshopWishlistButtonComponent } from './components/bikeshop-wishlist-button/bikeshop-wishlist-button.component';
+import { BikeshopWishlistBrowseComponent } from './components/bikeshop-wishlist-browse/bikeshop-wishlist-browse.component';
 
 
 @NgModule({
@@ -28,7 +32,10 @@ import { MapComponent } from './components/map/map.component';
     TelephonePipe,
     BikeshopFindComponent,
     BikeshopWishlistComponent,
-    MapComponent
+    BikeshopDirectionsComponent,
+    BikeshopTurnByTurnComponent,
+    BikeshopWishlistButtonComponent,
+    BikeshopWishlistBrowseComponent,
   ],
   imports: [
     BrowserModule,
@@ -38,6 +45,7 @@ import { MapComponent } from './components/map/map.component';
     AppRoutingModule,
     AgmCoreModule.forRoot({apiKey: 'AIzaSyDtTbqv-iVqRHFy8WaQ-Ca306nvDgpQKHE'}),
     ButtonsModule.forRoot(),
+    GoogleMapsDirections
   ],
   providers: [
     BikeshopAddressService,
