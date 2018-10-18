@@ -85,7 +85,8 @@ export class BikeshopFindComponent implements OnInit {
           this.destinationShop = this.shops[i].name;
           this.destinationDistance = distance;
           this.destinationPhone = this.shops[i].phone;
-          this.destinationAddress = this.shops[i].address.full;
+          this.destinationAddress = this.shops[i].address.street + ' ' + this.shops[i].address.city
+                + ', ' + this.shops[i].address.state + ' ' + this.shops[i].address.zip;
           this.crowService.setClosestCoords(this.destination);
           window.sessionStorage.setItem('my_destination_address', this.destinationShop);
       }

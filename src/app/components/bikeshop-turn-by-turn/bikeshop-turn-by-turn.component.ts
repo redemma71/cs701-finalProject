@@ -105,8 +105,10 @@ export class BikeshopTurnByTurnComponent implements OnInit {
     this.origin = '9 Augusta Ridge Road, Reisterstown, MD 21136 USA';
     let mtAiryAddress: string =  '101 Park Ave, Mt Airy, MD 21771, USA';
     let catonsvilleAddress: string = '743 Frederick Rd, Catonsville, MD 21228, USA';
+    let mtWashingtonAddress: string = '699 Washington Place, Baltimore, MD 21201, USA';
+    // this.origin = mtAiryAddress;
+    let destinationCoord = this._crowService.getItemFromSessionStorage('my_destination');
     this.destination = this.getFullAddress(destinationCoord);
-    console.log(this.destination);
     this.myRoute = [this.origin, this.destination];
     this.updateRoute();
   }
