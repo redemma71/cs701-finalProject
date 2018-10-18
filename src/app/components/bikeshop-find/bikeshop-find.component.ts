@@ -165,11 +165,14 @@ export class BikeshopFindComponent implements OnInit {
     .then( (position) => {
       this.myLat = position.coords.latitude;
       this.myLong = position.coords.longitude;
+
+      /////////////////////////////////////////////////
       // test origins
+      /////////////////////////////////////////////////
       this.origin = {lat: this.myLat, lng: this.myLong};
       // this.origin = this.mtAiryCoords;
       // this.origin = this.catonsvilleCoords;
-      // this.origin = this.mtWashingtonCoords;
+
       this.dataHasReturned = true;                    // enable find button
       window.sessionStorage.setItem('my_origin', JSON.stringify(this.origin));
     })
